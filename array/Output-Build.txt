@@ -1,0 +1,7 @@
+﻿1>------ Build started: Project: array, Configuration: Debug Win32 ------
+1>array.cpp
+1>e:\visual_tudio\code_cpp\array\array\array.cpp(6): warning C4101: 'j': unreferenced local variable
+1>e:\visual_tudio\code_cpp\array\array\array.cpp(6): warning C4101: 'n': unreferenced local variable
+1>array.vcxproj -> E:\VISUAL_TUDIO\CODE_CPP\array\Debug\array.exe
+1>Done building project "array.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

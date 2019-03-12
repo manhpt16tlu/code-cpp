@@ -1,0 +1,5 @@
+﻿  tim_kiem_mang.cpp
+e:\visual_tudio\code_cpp\bai_toan_hay\tim_kiem_mang\tim_kiem_mang\tim_kiem_mang.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\visual_tudio\code_cpp\bai_toan_hay\tim_kiem_mang\tim_kiem_mang\tim_kiem_mang.cpp(10): warning C4101: 'kt': unreferenced local variable
+e:\visual_tudio\code_cpp\bai_toan_hay\tim_kiem_mang\tim_kiem_mang\tim_kiem_mang.cpp(9): warning C4101: 'b': unreferenced local variable
+  tim_kiem_mang.vcxproj -> E:\VISUAL_TUDIO\CODE_CPP\BAI_TOAN_HAY\tim_kiem_mang\Debug\tim_kiem_mang.exe

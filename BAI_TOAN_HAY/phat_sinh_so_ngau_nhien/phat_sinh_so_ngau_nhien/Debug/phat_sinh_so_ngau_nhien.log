@@ -1,0 +1,3 @@
+﻿  phat_sinh_so_ngau_nhien.cpp
+e:\visual_tudio\code_cpp\bai_toan_hay\phat_sinh_so_ngau_nhien\phat_sinh_so_ngau_nhien\phat_sinh_so_ngau_nhien.cpp(8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  phat_sinh_so_ngau_nhien.vcxproj -> E:\VISUAL_TUDIO\CODE_CPP\BAI_TOAN_HAY\phat_sinh_so_ngau_nhien\Debug\phat_sinh_so_ngau_nhien.exe

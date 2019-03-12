@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sap_xep_array2", "sap_xep_array2\sap_xep_array2.vcxproj", "{B7A52AF2-D599-4445-84C0-72E6BF74FAAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7A52AF2-D599-4445-84C0-72E6BF74FAAC}.Debug|x64.ActiveCfg = Debug|x64
+		{B7A52AF2-D599-4445-84C0-72E6BF74FAAC}.Debug|x64.Build.0 = Debug|x64
+		{B7A52AF2-D599-4445-84C0-72E6BF74FAAC}.Debug|x86.ActiveCfg = Debug|Win32
+		{B7A52AF2-D599-4445-84C0-72E6BF74FAAC}.Debug|x86.Build.0 = Debug|Win32
+		{B7A52AF2-D599-4445-84C0-72E6BF74FAAC}.Release|x64.ActiveCfg = Release|x64
+		{B7A52AF2-D599-4445-84C0-72E6BF74FAAC}.Release|x64.Build.0 = Release|x64
+		{B7A52AF2-D599-4445-84C0-72E6BF74FAAC}.Release|x86.ActiveCfg = Release|Win32
+		{B7A52AF2-D599-4445-84C0-72E6BF74FAAC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC6F86D0-8772-45BE-8259-D365BDA2AD17}
+	EndGlobalSection
+EndGlobal

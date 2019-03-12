@@ -1,0 +1,4 @@
+﻿  array.cpp
+e:\visual_tudio\code_cpp\array\array\array.cpp(6): warning C4101: 'j': unreferenced local variable
+e:\visual_tudio\code_cpp\array\array\array.cpp(6): warning C4101: 'n': unreferenced local variable
+  array.vcxproj -> E:\VISUAL_TUDIO\CODE_CPP\array\Debug\array.exe
