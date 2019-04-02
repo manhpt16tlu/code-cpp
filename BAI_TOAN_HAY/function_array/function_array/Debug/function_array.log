@@ -1,0 +1,4 @@
+﻿  function_array.cpp
+e:\visual_tudio\code_cpp\bai_toan_hay\function_array\function_array\function_array.cpp(231): warning C4101: 'k': unreferenced local variable
+e:\visual_tudio\code_cpp\bai_toan_hay\function_array\function_array\function_array.cpp(231): warning C4101: 'x': unreferenced local variable
+  function_array.vcxproj -> E:\VISUAL_TUDIO\CODE_CPP\BAI_TOAN_HAY\function_array\Debug\function_array.exe
