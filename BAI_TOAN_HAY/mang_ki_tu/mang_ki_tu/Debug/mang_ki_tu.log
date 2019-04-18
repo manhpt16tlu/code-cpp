@@ -1,0 +1,5 @@
+﻿  mang_ki_tu.cpp
+e:\visual_studio\code_cpp\bai_toan_hay\mang_ki_tu\mang_ki_tu\mang_ki_tu.cpp(28): warning C4018: '<': signed/unsigned mismatch
+e:\visual_studio\code_cpp\bai_toan_hay\mang_ki_tu\mang_ki_tu\mang_ki_tu.cpp(63): warning C4018: '<': signed/unsigned mismatch
+e:\visual_studio\code_cpp\bai_toan_hay\mang_ki_tu\mang_ki_tu\mang_ki_tu.cpp(68): warning C4018: '<': signed/unsigned mismatch
+  mang_ki_tu.vcxproj -> E:\VISUAL_STUDIO\CODE_CPP\BAI_TOAN_HAY\mang_ki_tu\Debug\mang_ki_tu.exe
