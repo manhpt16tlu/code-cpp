@@ -1,0 +1,3 @@
+﻿  main.cpp
+G:\visual_studio_2019\C++\bai_toan_hay\bt_thuc_hanh_NNLT\BT3_ham\bai5\main.cpp(21,22): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  bai5.vcxproj -> G:\visual_studio_2019\C++\bai_toan_hay\bt_thuc_hanh_NNLT\BT3_ham\Debug\bai5.exe
