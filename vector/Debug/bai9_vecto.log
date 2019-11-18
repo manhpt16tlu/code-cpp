@@ -1,0 +1,7 @@
+﻿  main.cpp
+G:\visual_studio_2019\C++\bai_toan_hay\bt_thuc_hanh_NNLT\BT3_ham\bai9_vecto\main.cpp(7,20): warning C4018: '<': signed/unsigned mismatch
+G:\visual_studio_2019\C++\bai_toan_hay\bt_thuc_hanh_NNLT\BT3_ham\bai9_vecto\main.cpp(17,20): warning C4018: '<': signed/unsigned mismatch
+G:\visual_studio_2019\C++\bai_toan_hay\bt_thuc_hanh_NNLT\BT3_ham\bai9_vecto\main.cpp(58,11): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+G:\visual_studio_2019\C++\bai_toan_hay\bt_thuc_hanh_NNLT\BT3_ham\bai9_vecto\main.cpp(58,11): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+G:\visual_studio_2019\C++\bai_toan_hay\bt_thuc_hanh_NNLT\BT3_ham\bai9_vecto\main.cpp(58,11): warning C4566: character represented by universal-character-name '\u1EE3' cannot be represented in the current code page (1252)
+  bai9_vecto.vcxproj -> G:\visual_studio_2019\C++\bai_toan_hay\bt_thuc_hanh_NNLT\BT3_ham\Debug\bai9_vecto.exe
